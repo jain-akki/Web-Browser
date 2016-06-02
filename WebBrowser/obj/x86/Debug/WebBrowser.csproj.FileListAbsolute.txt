@@ -1,0 +1,10 @@
+D:\DotNet\WinFormApp\9-Sep-15\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+D:\DotNet\WinFormApp\9-Sep-15\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+D:\DotNet\WinFormApp\9-Sep-15\WebBrowser\WebBrowser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DotNet\WinFormApp\9-Sep-15\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.Form1.resources
+D:\DotNet\WinFormApp\9-Sep-15\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.Properties.Resources.resources
+D:\DotNet\WinFormApp\9-Sep-15\WebBrowser\WebBrowser\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DotNet\WinFormApp\9-Sep-15\WebBrowser\WebBrowser\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DotNet\WinFormApp\9-Sep-15\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.exe
+D:\DotNet\WinFormApp\9-Sep-15\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.pdb
+D:\DotNet\WinFormApp\9-Sep-15\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.Form2.resources
